@@ -2162,7 +2162,7 @@ footer a:visited {
     }
 
     header nav ul li {
-        width: 100%;
+        width: 50%;
         border-top: none;
 
     }
@@ -2405,7 +2405,7 @@ footer a:visited {
         margin-bottom: 5%;
         width: 330px;
         height: 207px;
-        padding: 2%;
+        padding: 1%;
         margin-right: 7%;
         box-shadow: 1px 5px 5px 5px #f2f2f2
     }
@@ -2648,6 +2648,7 @@ footer a:visited {
         font-size: 14px;
         height: 50px;
     }
+    
     header nav ul li a.hbg{
         margin-right: 7%;
     }
@@ -2781,6 +2782,7 @@ footer a:visited {
         font-size: 13px;
         margin-right: 0px;
         margin-bottom: 5px;
+        
 
     }
     .titrestar .fa-star{
